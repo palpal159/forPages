@@ -1,5 +1,5 @@
 # Черепанов Павел Александрович
-![](/Users/pavelcherepanov/Downloads/myFoto.jpeg)
+![My Foto](/Users/pavelcherepanov/Downloads/myFoto.jpeg)
 ## Студент группы GIT-57
 Несколько фактов обо мне:
 1. Человек - многозадачность. Учусь на двух программах обучения, плюс имею постоянную работу, семью и детей))
